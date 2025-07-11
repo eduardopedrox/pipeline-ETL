@@ -18,8 +18,8 @@ Este projeto realiza a extração, transformação e carga (ETL) de dados de via
 ## Instalação
 
 1. Clone este repositório:
-   git clone <pipeline-ETL>
-   cd <pipeline-ETL>
+   git clone https://github.com/eduardopedrox/pipeline-ETL.git
+   cd pipeline-ETL
 
 2. Instale as dependências:
    pip install -r requirements.txt
